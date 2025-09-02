@@ -21,6 +21,8 @@ Advanced Excel functions for data aggregation and analysis
 How to Use
 Open the Excel file in Microsoft Excel to ensure full functionality of formulas and dashboards.
 
+The raw data is included in the same Excel file on the second sheet, allowing a complete view of source data and visualizations in one document.
+
 Use the provided filters and slicers to customize views and analyze data from different perspectives.
 
 Review the charts and summary tables for actionable insights into sales performance.
